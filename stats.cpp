@@ -1,4 +1,5 @@
 #include "stats.h"
+#include <cmath>
 
 /// <summary>
 /// Compute statistics for a bunch of numbers
